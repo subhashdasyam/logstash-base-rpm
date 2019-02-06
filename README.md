@@ -1,0 +1,1 @@
+# logstash-base-rpm
